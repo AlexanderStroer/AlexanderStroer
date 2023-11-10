@@ -9,10 +9,10 @@
 
 <h2>Certifications</h2>
 
-- [Testout Ethical Hacker Pro](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Testout Security Pro](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Testout Network Pro](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Testout PC Pro](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Testout Ethical Hacker Pro](https://certification.testout.com/verifycert/6-1C6-V3PW3R)
+- [Testout Security Pro](https://certification.testout.com/verifycert/6-1C6-V3N4L4)
+- [Testout Network Pro](https://certification.testout.com/verifycert/6-1C6-V3TSDJ)
+- [Testout PC Pro](https://certification.testout.com/verifycert/6-1C6-T2P69)
 - [Studying for CompTIA Security+]
 
 <h2> 🤳 Connect with me:</h2>
