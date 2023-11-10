@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/>
+<h1>Hi, I'm Alex!<br/>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -20,6 +20,9 @@
 - [Testout Network Pro](https://certification.testout.com/verifycert/6-1C6-V3TSDJ)
 - [Testout PC Pro](https://certification.testout.com/verifycert/6-1C6-T2P69)
 - [Studying for CompTIA Security+]
+
+
+### Some things not mentioned here are activities performed on websites like TryHackMe, HackTheBox, PicoCTF and CodeWars
 
 <h2> 🤳 Connect with me:</h2>
 
