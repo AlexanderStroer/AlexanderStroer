@@ -8,6 +8,7 @@
   - [Automated Passive Recon.](https://github.com/AlexanderStroer/BashPassiveRecon)
 
 <h2>👨‍💻 Self-Learning:</h2>
+
 - <b>Python</b>
   - [Simple File Manager](https://github.com/AlexanderStroer/SimpleFileSort)
   - [Worked on Harvard's CS50P Intro. to Prog. with Python](https://github.com/code50/122342684/tree/main/CS50P/finished)
