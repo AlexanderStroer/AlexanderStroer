@@ -6,8 +6,7 @@
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Simple File Manager](https://github.com/AlexanderStroer/SimpleFileSort)
-- <b>Self-learning</b>
-  - [Harvards CS50P Intro. to Prog. with Python](https://github.com/code50/122342684/tree/main/CS50P/finished)
+  - [Completed Harvard's CS50P Intro. to Prog. with Python](https://github.com/code50/122342684/tree/main/CS50P/finished)
 
 <h2>Certifications</h2>
 
