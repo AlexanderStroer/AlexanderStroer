@@ -5,7 +5,7 @@
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
-  - [Simple File Manager](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Simple File Manager](https://github.com/AlexanderStroer/SimpleFileSort)
 
 <h2>Certifications</h2>
 
