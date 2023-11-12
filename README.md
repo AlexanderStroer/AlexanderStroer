@@ -14,7 +14,7 @@
   - [Simple File Sorter](https://github.com/AlexanderStroer/SimpleFileSort)
   - [Worked on Harvard's CS50P Intro. to Prog. with Python](https://github.com/code50/122342684/tree/main/CS50P/finished)
 
-<h2>Certifications</h2>
+<h2>👨‍💻 Certifications</h2>
 
 - [Testout Ethical Hacker Pro](https://certification.testout.com/verifycert/6-1C6-V3PW3R)
 - [Testout Security Pro](https://certification.testout.com/verifycert/6-1C6-V3N4L4)
