@@ -4,7 +4,7 @@
 
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/AlexanderStroer/ActiveDirectoryJM)
-- <b>Bash</b>
+- <b>Bash Reconnaissance</b>
   - [Automated Passive Recon.](https://github.com/AlexanderStroer/BashPassiveRecon)
 
 <h2>👨‍💻 Coding:</h2>
