@@ -7,9 +7,9 @@
 - <b>Bash</b>
   - [Automated Passive Recon.](https://github.com/AlexanderStroer/BashPassiveRecon)
 
-<h2>👨‍💻 Self-Learning:</h2>
+<h2>👨‍💻 Coding:</h2>
 
-- <b>Coding (Python)</b>
+- <b>Python</b>
   - [Interactive Slot Machine](https://github.com/AlexanderStroer/SlotMachine)
   - [Algorithms Practice](https://github.com/AlexanderStroer/AlgorithmsPractice)
   - [Simple File Sorter](https://github.com/AlexanderStroer/SimpleFileSort)
