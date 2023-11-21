@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Labs</b>
-  - [Cybersecurity Detecting and Monitoring Lab (with attack machine/victim network)](https://github.com/AlexanderStroer/Cybersecurity-Homelab)
+  - [Cybersecurity Detection and Monitoring Lab (with attack machine/victim network)](https://github.com/AlexanderStroer/Cybersecurity-Homelab)
   - [Active Directory Home Lab](https://github.com/AlexanderStroer/ActiveDirectoryJM)
 - <b>Bash Reconnaissance</b>
   - [Automated Passive Reconnaissance](https://github.com/AlexanderStroer/BashPassiveRecon)
